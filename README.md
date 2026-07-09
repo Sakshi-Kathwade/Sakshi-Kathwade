@@ -107,7 +107,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=100000&color=58A6FF&center=true&vCenter=true&width=550&lines=%E2%9C%A8+Thanks+for+Visiting+My+Profile!+%E2%9C%A8" />
 </p>
 
-<br><br>
+<br>
 
 ### 💙 Happy Coding! 👩‍💻✨
 
