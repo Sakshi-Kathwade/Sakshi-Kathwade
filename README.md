@@ -26,7 +26,9 @@
 
 </div>
 
-## 👩‍💻 About Me
+<div align="center">
+
+# 👩‍💻 About Me
 
 🎓 Completed Diploma in Computer Engineering.
 
@@ -40,7 +42,8 @@
 
 🌍 Exploring modern technologies and open source.
 
-
+</div>
+<div align="center">
 
 ## 💻 Tech Stack
 
@@ -73,6 +76,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </p>
+</div>
+<div align="center">
 
 ## 📊 GitHub Statistics
 
@@ -89,13 +94,16 @@
 <img src="https://streak-stats.demolab.com/?user=Sakshi-Kathwade&theme=tokyonight&hide_border=false"/>
 
 </p>
-
+</div>
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://img.shields.io/badge/✨%20Thank%20You%20For%20Visiting%20My%20Profile!-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 
-*"Code. Learn. Build. Grow."* 🚀
+<br><br>
+
+<img src="https://img.shields.io/badge/Building%20Technology%20with%20Purpose-58A6FF?style=for-the-badge"/>
 
 </div>
+
 
 
