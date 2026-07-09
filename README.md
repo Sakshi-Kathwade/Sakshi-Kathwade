@@ -74,25 +74,20 @@
 
 </p>
 
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-![](https://github-readme-stats.shion.dev/api?username=Sakshi-Kathwade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sakshi-Kathwade&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sakshi-Kathwade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Sakshi-Kathwade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
 
-</P>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sakshi-Kathwade&theme=tokyonight&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sakshi-Kathwade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 </p>
 
+<p align="center">
 
- 
+<img src="https://streak-stats.demolab.com/?user=Sakshi-Kathwade&theme=tokyonight&hide_border=false"/>
+
+</p>
 
 
