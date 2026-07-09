@@ -1,14 +1,23 @@
 <div align="center">
 
-# 👋 Hello, I'm Sakshi Kathawde
+# 👋 Hello, I'm **Sakshi Kathawde**
 
-### 🚀 Building Technology with Purpose
+### 💙 Building Technology with Purpose
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;Flutter+Developer;Open+Source+Learner;Problem+Solver;Building+Technology+with+Purpose" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Hello%2C+I'm+Sakshi+Kathawde;Full+Stack+Developer;Java+%7C+Flutter+%7C+Python;Building+Modern+Web+Applications;Exploring+New+Technologies;Open+Source+Learner;Future+Software+Engineer" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
+<p align="center">
+  <b>💡 Turning Ideas into Real-World Software Solutions</b>
+</p>
 
 </div>
 # 💫 About Me:
