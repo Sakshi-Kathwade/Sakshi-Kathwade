@@ -28,7 +28,7 @@
 
 <div align="center">
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 Completed Diploma in Computer Engineering.
 
