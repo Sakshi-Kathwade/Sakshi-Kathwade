@@ -95,7 +95,6 @@
 
 </p>
 </div>
----
 
 <div align="center">
 
@@ -104,10 +103,9 @@
 <p align="center">
   <i>Keep Learning • Keep Building • Keep Growing</i>
 </p>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/⭐%20Thanks%20for%20Stopping%20By!%20Let's%20Build%20Something%20Amazing%20Together-58A6FF?style=for-the-badge"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1&pause=100000&color=58A6FF&center=true&vCenter=true&width=500&lines=⭐+Thanks+for+Visiting+My+Profile!" />
+</p>
 
 <br><br>
 
