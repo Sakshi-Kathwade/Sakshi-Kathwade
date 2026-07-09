@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sakshi Kathawde**
+# Sakshi Kathawde
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Hello%2C+I'm+Sakshi+Kathawde;Full+Stack+Developer;Java+%7C+Flutter+%7C+Python;Building+Modern+Web+Applications;Exploring+New+Technologies;Open+Source+Learner;Future+Software+Engineer" />
