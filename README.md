@@ -95,13 +95,23 @@
 
 </p>
 </div>
+---
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/✨%20Thank%20You%20For%20Visiting%20My%20Profile!-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+## ✨ My Journey
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing</i>
+</p>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Building%20Technology%20with%20Purpose-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⭐%20Thanks%20for%20Stopping%20By!%20Let's%20Build%20Something%20Amazing%20Together-58A6FF?style=for-the-badge"/>
+
+<br><br>
+
+### 💙 Happy Coding! 👩‍💻✨
 
 </div>
 
