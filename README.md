@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-<a href="https://leetcode.com/u/Sakshi_Kathawde/">
+<a href="https://leetcode.com/u/Sakshi_Kathwade/">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 &nbsp;
