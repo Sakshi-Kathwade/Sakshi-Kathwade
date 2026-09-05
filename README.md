@@ -19,25 +19,18 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-
 <a href="https://leetcode.com/u/Sakshi_Kathawde/">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://www.hackerrank.com/profile/Sakshi_Kathwade">
   <img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://www.kaggle.com/">
   <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://codeforces.com/profile/Sakshi_Kathwade">
   <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
