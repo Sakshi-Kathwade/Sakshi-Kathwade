@@ -20,15 +20,15 @@
   </a>
     &nbsp;
    <a href="https://leetcode.com/u/Sakshi_Kathawde/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Leetcode-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/profile/Sakshi_Kathwade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hackerrank-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/Sakshi_Kathwade">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
